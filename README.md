@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @neilmorr
+- 👀 I’m interested in product management and web development
+- 🌱 I’m currently learning web dev fundamentals
+- 💞️ I’m looking to collaborate on small coding projects in React
+- 📫 You can reach me on [LinkedIn](linkedin.com/in/neilmorrison)
