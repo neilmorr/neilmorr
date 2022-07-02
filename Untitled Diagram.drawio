@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-02T06:00:07.498Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="XEn2_F1sdzooXq-msoEX" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-02T06:07:53.764Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="SxjaoIjZPHevoKq8gjq7" version="20.0.4" type="github">
   <diagram id="fg8l1_sHuMjB2g9FjELG" name="Page-1">
     <mxGraphModel dx="1209" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,17 +8,22 @@
           <mxGeometry x="544" y="256.25" width="3" height="5.75" as="geometry" />
         </mxCell>
         <mxCell id="YeKtraM9uPKnGrGfIVZY-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" parent="1" vertex="1">
-          <mxGeometry x="290" y="280" width="310" height="530" as="geometry" />
+          <mxGeometry x="220" y="280" width="380" height="680" as="geometry" />
         </mxCell>
-        <mxCell id="oCMj-jJ8eBJa1_I_m5o7-1" value="&lt;h1&gt;Clear Finance&lt;/h1&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="364" y="330" width="180" height="70" as="geometry" />
+        <mxCell id="oCMj-jJ8eBJa1_I_m5o7-1" value="&lt;h1&gt;Simple Finance&lt;/h1&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="340" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="oCMj-jJ8eBJa1_I_m5o7-2" value="&lt;h2&gt;Every year, the money in your bank account is worth less. Why?&lt;br&gt;&lt;/h2&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;textDirection=ltr;" vertex="1" parent="1">
-          <mxGeometry x="190" y="410" width="570" height="60" as="geometry" />
+        <mxCell id="oCMj-jJ8eBJa1_I_m5o7-2" value="&lt;h2&gt;In six months, your money will be worth less. Why?&lt;/h2&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;textDirection=ltr;" vertex="1" parent="1">
+          <mxGeometry x="195" y="450" width="460" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oCMj-jJ8eBJa1_I_m5o7-6" value="&lt;h2&gt;Every year, the money in your bank account is worth less. Why?&lt;br&gt;&lt;/h2&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;textDirection=ltr;" vertex="1" parent="1">
-          <mxGeometry x="190" y="480" width="570" height="60" as="geometry" />
+        <mxCell id="oCMj-jJ8eBJa1_I_m5o7-7" value="Saving for retirement at 20 s 40" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="630" width="120" height="60" as="geometry" />
         </mxCell>
+        <UserObject label="See yesterday&#39;s lesson" link="djew" id="oCMj-jJ8eBJa1_I_m5o7-8">
+          <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" vertex="1" parent="1">
+            <mxGeometry x="343" y="520" width="164" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
